@@ -1,0 +1,14 @@
+.ıncrease_button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.ıncrease_button_main {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.decrease_button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.decrease_button_main {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
